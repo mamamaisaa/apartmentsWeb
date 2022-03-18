@@ -1,0 +1,32 @@
+header{
+    width: 100%;
+    height: 15%;
+    display: flex;
+}
+
+main{
+    margin-top: 12%;
+}
+
+.other{
+    display: inline-block;
+    margin: 10px;
+  }
+
+  .func{
+    height: 200px;
+    border-radius: 5px;
+  }
+
+  @media screen and (max-width: 700px) {
+    .func{
+        height: 150px;
+      }
+    
+      .slogan{
+        font-size: 3ex;
+    }
+    header{
+        height: 10%;
+    }
+  }
