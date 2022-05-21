@@ -1,0 +1,286 @@
+*{
+  box-sizing:border-box;
+  margin:0px;
+  font-family: Arial;
+}
+
+html,body{
+  height:100%;
+  background-color: #F7F7F7 ;
+  width: 100%;
+
+}
+
+header{
+  width: 100%;
+  height: 10%;
+  background-color: #1A5058;
+  float: left;
+
+}
+
+span{
+    color:#E1C88D;
+    font-size:50px;
+}
+
+main{
+   width:90%; 
+}
+.slogan1{
+  float: left;
+  text-align: center;
+  color: #E1C88D;
+  margin: auto;
+  font-weight: bold;
+  font-size: 3ex;
+  margin-left: 40%;
+  margin-top: 1%;
+  
+}
+
+span {
+    content: "\21FD";
+    float: left;
+  }
+
+
+.rent{
+  font-size:3ex; 
+  float: left; 
+  margin-left: 2%; 
+  margin-top: 1%; 
+  color: #487288;
+}  
+
+.bills{
+  font-size:2ex; 
+  float: left; 
+  margin-left: 2%; 
+  margin-top: 1.5%; 
+
+}
+
+
+.input{
+  width: 15%; 
+  float: left; 
+  margin-top: 1.2%;
+  margin-left: 1%;
+  background-color:  #f8f7e7;
+  border-radius: 4px;
+  border: 1px solid #487288;
+
+}
+
+/* The switch - the box around the slider */
+.switch {
+    margin-left: 1%;
+    position: relative;
+    display: inline-block;
+    width: 44px;
+    height: 15px;
+    margin-top: 1.5%;
+
+    
+  }
+  
+  /* Hide default HTML checkbox */
+  .switch input {display:none;}
+  
+  /* The slider */
+  .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  
+  .slider:before {
+    position: absolute;
+    content: "";
+    height: 20px;
+    width: 20px;
+    left: 1px;
+    top: -2px;
+    bottom: 4px;
+    background-color: rgb(7, 5, 5);
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  
+  input:checked + .slider {
+    background-color: #F89344;
+  }
+  
+  input:focus + .slider {
+    box-shadow: 0 0 1px #F89344;
+  }
+  
+  input:checked + .slider:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(25px);
+  }
+  
+  /* Rounded sliders */
+  .slider.round {
+    border-radius: 34px;
+  }
+  
+  .slider.round:before {
+    border-radius: 50%;
+  }
+
+
+.datetxt{
+  color: grey;
+  font-size: 3ex;
+  float: left; 
+  margin-left: 2%; 
+  margin-top: 1%; 
+  width: 98%;
+
+} 
+
+.date{
+  color:black;
+  font-size: 2.5ex;
+  float: left; 
+  margin-left: 2%; 
+
+}
+
+
+.cal{
+  float: left;
+  margin-top: 0ex; 
+  margin-left: 2%;
+  background-color:  #f8f7e7;
+  border-radius: 4px;
+  border: 1px solid #487288;
+
+}
+
+.contxt{
+  color: grey; 
+  font-size: 3ex; 
+  float: left; 
+  width: 98%; 
+  margin-top: 1%; 
+  margin-left: 2%;
+
+
+}
+
+.contract{
+  float: left;  
+  overflow: auto; 
+  margin-top: 0.5%; 
+  background-color:  #f8f7e7;
+  border-radius: 4px;
+  border: 1px solid #487288;
+  resize: none;
+  margin-left: 2%;
+  width: 90%;
+
+
+}
+
+
+
+.savebutton{
+  border-radius: 4px;
+  float: left;
+  margin-top: 2%;
+  height: 10%;
+  width: 10%;
+  border: none;
+  font-size: 17px;
+  margin-left: 45%;
+  background-color:  #f8f7e7;
+  border-radius: 4px;
+  border: 1px solid #487288;
+}
+
+
+
+.btn:hover{
+    border: 2px solid #487288;
+}
+
+@media screen and (max-width: 700px) {
+  header{
+      height: 10%;
+      
+  }
+
+  .slogan1{
+      font-size: 3ex;
+      margin-top: 2%;
+      margin-left: 22%;
+      
+ }
+
+
+ .arrow{
+     margin-top: 1%;
+ }
+
+
+ .rent{
+   font-size: 2ex;
+   width: 97%;
+
+ }
+
+
+ .switch{
+   margin-top: 2%;
+   
+ }
+
+
+ .input{
+  margin-left: 2%; 
+  width: 20%; 
+  float: left; 
+  margin-top: 1%;
+  
+}
+
+.date{
+  width: 40%;
+ font-size: 2ex;
+}
+
+.contxt{
+  margin-left: 35%;
+  width: 40%;
+  
+}
+
+
+.contract{
+  margin-left: 10%;
+  width: 86%;
+
+}
+
+.savebutton{
+  margin-left: 40%;
+  width: 25%;
+}
+.contxt{
+  font-size: 2ex; 
+    float:left;
+
+}
+
+
+}

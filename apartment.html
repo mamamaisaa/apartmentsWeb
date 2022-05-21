@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Home-me</title>
+        <link rel="stylesheet" href="apartment.css">
+        <link rel="stylesheet" href="basic.css">
+        <link rel="stylesheet" href="submit.css">
+        <link rel="shortcut icon" href="photos/icon.png" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+
+    <body>
+        <header class="mainColor">
+            <p class="slogan1">Tenant management</p>
+        </header>
+
+        <main>
+            <p class="exp">Please fill out the <br> information about your apartment</p>
+            
+            <!-- new apartment registration form -->
+            <form action="apartment.php" method="POST">
+                <p> <input type="text" placeholder="Country" required class="input" id ="country" name="country"> </p>
+                
+                <p><input type="text" placeholder="City" required class="input" id = "city" name="city" style=""></p>  <br> <br>
+                
+                <p> <input type="text" placeholder="Street" required class="input1" id="street" name="street"> </p>
+                
+                <p> <input type="text" placeholder="Number" required class="input1" name="streetNumber" id ="streetNumber"> </p>
+                
+                <p> <input type="number" placeholder="Apartment" class="input1" name="aptNumber" id="aptNumber"></p>  <br> <br>
+                
+                <p> <input type="number" placeholder="ZIP code" required Pattern="[0-9]" class="input" id="ZIP" name="ZIP" ></p> 
+                        
+                <p><textarea placeholder="Apartment's description" cols="75" rows="8" class="inputTextArea" name="aptDescription" style="display:block; margin:auto; margin-top:3%;"></textarea> </p>
+                        
+                <p> <input type="submit" value="Continue" class="button border fbtn iphone" > </p>
+            </form> 
+        </main>
+    </body>
+</html>
+

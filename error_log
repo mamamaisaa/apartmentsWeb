@@ -1,0 +1,900 @@
+[02-Apr-2022 10:50:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ismaisaajb/public_html/connect2.php on line 19
+[16-Apr-2022 07:33:54 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsListConnection.php on line 3
+[16-Apr-2022 07:33:54 UTC] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsListConnection.php on line 4
+[16-Apr-2022 07:33:54 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ismaisaajb/public_html/malfunctionsListConnection.php on line 4
+[16-Apr-2022 07:33:59 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsListConnection.php on line 3
+[16-Apr-2022 07:33:59 UTC] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsListConnection.php on line 4
+[16-Apr-2022 07:33:59 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ismaisaajb/public_html/malfunctionsListConnection.php on line 4
+[16-Apr-2022 07:33:59 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 4
+[16-Apr-2022 07:33:59 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/malfunctionsList.php on line 4
+[16-Apr-2022 07:33:59 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 49
+[16-Apr-2022 07:36:48 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsListConnection.php on line 3
+[16-Apr-2022 07:36:48 UTC] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsListConnection.php on line 4
+[16-Apr-2022 07:36:48 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ismaisaajb/public_html/malfunctionsListConnection.php on line 4
+[16-Apr-2022 07:36:48 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 4
+[16-Apr-2022 07:36:48 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/malfunctionsList.php on line 4
+[16-Apr-2022 07:36:48 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 49
+[16-Apr-2022 07:40:06 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 49
+[16-Apr-2022 08:07:35 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 49
+[16-Apr-2022 08:13:11 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 47
+[16-Apr-2022 08:17:20 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 47
+[16-Apr-2022 08:24:14 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 47
+[16-Apr-2022 14:10:11 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ismaisaajb/public_html/connect2.php on line 62
+[19-Apr-2022 06:17:25 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 47
+[23-Apr-2022 11:14:56 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/ismaisaajb/public_html/malfunctionsList.php on line 55
+[23-Apr-2022 11:19:14 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/ismaisaajb/public_html/malfunctionsList.php on line 55
+[23-Apr-2022 11:20:53 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/ismaisaajb/public_html/malfunctionsList.php on line 55
+[23-Apr-2022 11:21:00 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/ismaisaajb/public_html/malfunctionsList.php on line 55
+[23-Apr-2022 11:25:26 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/ismaisaajb/public_html/malfunctionsList.php on line 55
+[23-Apr-2022 11:25:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 96
+[23-Apr-2022 11:27:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 95
+[23-Apr-2022 14:53:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 95
+[23-Apr-2022 14:56:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 95
+[23-Apr-2022 15:00:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 95
+[24-Apr-2022 08:26:38 UTC] PHP Fatal error:  Call to undefined method mysqli::mysqli_query() in /home/ismaisaajb/public_html/login.php on line 26
+[24-Apr-2022 08:32:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/ismaisaajb/public_html/login.php on line 26
+[24-Apr-2022 08:33:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/ismaisaajb/public_html/login.php on line 26
+[24-Apr-2022 08:35:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/ismaisaajb/public_html/login.php on line 28
+[24-Apr-2022 08:36:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/ismaisaajb/public_html/login.php on line 28
+[24-Apr-2022 08:36:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/ismaisaajb/public_html/login.php on line 28
+[24-Apr-2022 08:37:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/ismaisaajb/public_html/login.php on line 28
+[24-Apr-2022 08:39:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/ismaisaajb/public_html/login.php on line 28
+[24-Apr-2022 08:39:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/ismaisaajb/public_html/login.php on line 28
+[24-Apr-2022 08:39:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/ismaisaajb/public_html/login.php on line 28
+[24-Apr-2022 08:40:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/ismaisaajb/public_html/login.php on line 28
+[24-Apr-2022 08:40:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/ismaisaajb/public_html/login.php on line 28
+[24-Apr-2022 08:44:16 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ismaisaajb/public_html/login.php on line 15
+[25-Apr-2022 09:42:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 95
+[26-Apr-2022 13:05:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 95
+[26-Apr-2022 13:09:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 97
+[26-Apr-2022 13:09:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 97
+[26-Apr-2022 13:09:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 97
+[26-Apr-2022 13:09:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 97
+[26-Apr-2022 13:09:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 94
+[26-Apr-2022 13:09:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 94
+[26-Apr-2022 13:10:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 95
+[26-Apr-2022 13:11:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 95
+[26-Apr-2022 13:11:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 95
+[26-Apr-2022 13:12:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 96
+[26-Apr-2022 13:12:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 96
+[26-Apr-2022 13:12:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 96
+[26-Apr-2022 13:12:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 97
+[26-Apr-2022 13:12:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 97
+[26-Apr-2022 13:12:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 97
+[26-Apr-2022 13:13:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 98
+[26-Apr-2022 13:13:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 98
+[26-Apr-2022 13:13:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 98
+[26-Apr-2022 13:15:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 98
+[26-Apr-2022 13:16:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 98
+[26-Apr-2022 13:16:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 98
+[26-Apr-2022 13:16:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 98
+[26-Apr-2022 13:16:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 98
+[27-Apr-2022 08:26:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 98
+[27-Apr-2022 09:05:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 98
+[27-Apr-2022 09:06:51 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ismaisaajb/public_html/malfunctionsList.php on line 6
+[27-Apr-2022 09:06:52 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ismaisaajb/public_html/malfunctionsList.php on line 6
+[27-Apr-2022 09:07:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 96
+[27-Apr-2022 09:07:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 96
+[27-Apr-2022 09:07:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 96
+[27-Apr-2022 09:08:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 96
+[27-Apr-2022 09:08:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 96
+[27-Apr-2022 09:09:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 99
+[27-Apr-2022 09:09:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/malfunctionsList.php on line 99
+[27-Apr-2022 09:24:54 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 23
+[27-Apr-2022 09:25:22 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 23
+[27-Apr-2022 09:25:48 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 23
+[27-Apr-2022 09:27:47 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 31
+[27-Apr-2022 09:28:08 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 31
+[27-Apr-2022 09:28:15 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 31
+[27-Apr-2022 09:28:24 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 31
+[27-Apr-2022 09:28:36 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 31
+[27-Apr-2022 09:28:44 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 31
+[27-Apr-2022 09:29:01 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 31
+[27-Apr-2022 09:29:09 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 31
+[27-Apr-2022 09:29:16 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 31
+[27-Apr-2022 09:30:14 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 31
+[27-Apr-2022 09:30:15 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 31
+[27-Apr-2022 09:31:45 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 31
+[27-Apr-2022 09:32:00 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 31
+[27-Apr-2022 09:33:01 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 31
+[27-Apr-2022 09:33:01 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 31
+[27-Apr-2022 09:33:54 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 31
+[27-Apr-2022 09:34:29 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 31
+[27-Apr-2022 09:37:11 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 31
+[27-Apr-2022 09:38:53 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 33
+[27-Apr-2022 09:39:13 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 36
+[27-Apr-2022 09:39:44 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 45
+[27-Apr-2022 09:40:11 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 41
+[27-Apr-2022 09:40:20 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 41
+[27-Apr-2022 10:00:35 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 41
+[27-Apr-2022 10:04:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 41
+[27-Apr-2022 10:04:31 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 41
+[27-Apr-2022 10:04:43 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 41
+[27-Apr-2022 10:04:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 41
+[27-Apr-2022 10:05:49 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 41
+[27-Apr-2022 10:05:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 41
+[27-Apr-2022 10:06:00 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 41
+[27-Apr-2022 10:06:06 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 41
+[27-Apr-2022 10:13:49 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 4
+[27-Apr-2022 10:13:49 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/malfunctionsList.php on line 4
+[27-Apr-2022 10:15:10 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 4
+[27-Apr-2022 10:15:10 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/malfunctionsList.php on line 4
+[27-Apr-2022 10:15:10 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/ismaisaajb/public_html/malfunctionsList.php on line 5
+[27-Apr-2022 10:15:10 UTC] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 6
+[27-Apr-2022 10:15:10 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ismaisaajb/public_html/malfunctionsList.php on line 6
+[27-Apr-2022 10:15:10 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 43
+[27-Apr-2022 10:15:10 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/malfunctionsList.php on line 43
+[27-Apr-2022 10:16:04 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsListConnection.php on line 3
+[27-Apr-2022 10:16:04 UTC] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsListConnection.php on line 4
+[27-Apr-2022 10:16:04 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ismaisaajb/public_html/malfunctionsListConnection.php on line 4
+[27-Apr-2022 10:16:04 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 4
+[27-Apr-2022 10:16:04 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/malfunctionsList.php on line 4
+[27-Apr-2022 10:16:04 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 42
+[27-Apr-2022 10:16:04 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/malfunctionsList.php on line 42
+[27-Apr-2022 10:16:10 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/ismaisaajb/public_html/malfunctionsListConnection.php on line 3
+[27-Apr-2022 10:16:10 UTC] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsListConnection.php on line 4
+[27-Apr-2022 10:16:10 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ismaisaajb/public_html/malfunctionsListConnection.php on line 4
+[27-Apr-2022 10:16:10 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 4
+[27-Apr-2022 10:16:10 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/malfunctionsList.php on line 4
+[27-Apr-2022 10:16:10 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 42
+[27-Apr-2022 10:16:10 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/malfunctionsList.php on line 42
+[27-Apr-2022 10:17:09 UTC] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/ismaisaajb/public_html/malfunctionsList.php on line 42
+[27-Apr-2022 10:17:11 UTC] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/ismaisaajb/public_html/malfunctionsList.php on line 42
+[27-Apr-2022 10:18:57 UTC] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/ismaisaajb/public_html/malfunctionsList.php on line 42
+[27-Apr-2022 10:20:17 UTC] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/ismaisaajb/public_html/malfunctionsList.php on line 42
+[27-Apr-2022 10:22:44 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:24:38 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:24:56 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:25:17 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:28:27 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:28:41 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:29:14 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:29:33 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:30:03 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:30:09 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:30:33 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:30:44 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:31:21 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:31:30 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:31:32 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:31:47 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:31:58 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:32:08 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:32:24 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:32:39 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:32:56 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:34:24 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:35:46 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:36:26 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:36:42 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:37:15 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:37:29 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:38:54 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:38:55 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:39:43 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:40:29 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:40:57 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:41:24 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:42:06 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:42:45 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:43:20 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:43:34 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:44:40 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:45:04 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:45:22 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:45:36 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:48:24 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:48:55 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:49:00 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 10:49:08 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 13:15:39 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 13:17:19 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 13:35:59 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 13:36:33 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 14:24:42 UTC] PHP Fatal error:  Call to undefined function alert() in /home/ismaisaajb/public_html/login.php on line 33
+[27-Apr-2022 14:25:11 UTC] PHP Fatal error:  Call to undefined function alert() in /home/ismaisaajb/public_html/login.php on line 33
+[27-Apr-2022 14:25:20 UTC] PHP Fatal error:  Call to undefined function alert() in /home/ismaisaajb/public_html/login.php on line 33
+[27-Apr-2022 15:20:02 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 15:20:57 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 17:47:44 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[27-Apr-2022 17:51:42 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[28-Apr-2022 06:11:43 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[28-Apr-2022 08:49:43 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[28-Apr-2022 08:50:50 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[28-Apr-2022 08:52:14 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[28-Apr-2022 09:04:17 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[28-Apr-2022 09:10:19 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[28-Apr-2022 09:11:51 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[28-Apr-2022 09:12:33 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[28-Apr-2022 09:13:02 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[28-Apr-2022 09:13:55 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[28-Apr-2022 09:24:23 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/ismaisaajb/public_html/contract.php on line 29
+[28-Apr-2022 11:28:17 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[28-Apr-2022 12:00:02 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[28-Apr-2022 12:00:02 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[28-Apr-2022 12:00:18 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[28-Apr-2022 12:00:22 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 09:08:44 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 09:20:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/new_malfunction.php on line 73
+[29-Apr-2022 09:26:08 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 09:30:43 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 09:31:47 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 09:34:52 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 09:54:50 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 10:08:19 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 10:10:52 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 10:11:59 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 10:12:26 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 10:13:37 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 10:13:37 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:37 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:37 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:37 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:37 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:37 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:37 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:37 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:37 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:37 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:37 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:37 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:37 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:37 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:37 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:37 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:37 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:37 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:37 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:37 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:37 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:37 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:37 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:37 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:37 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:37 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:37 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:37 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:37 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:57 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 10:13:57 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:57 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:57 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:57 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:57 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:57 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:57 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:57 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:57 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:57 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:57 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:57 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:57 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:57 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:57 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:57 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:57 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:57 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:57 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:57 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:57 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:57 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:57 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:57 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:57 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:57 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:57 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:57 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:13:57 UTC] PHP Warning:  Illegal string offset 'title' in /home/ismaisaajb/public_html/malfunctionsList.php on line 70
+[29-Apr-2022 10:14:32 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 10:14:48 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 10:15:33 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 10:17:08 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 10:18:08 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 10:19:58 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 10:21:47 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 10:28:05 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 10:30:09 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 10:30:48 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 10:31:26 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 10:31:36 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ismaisaajb/public_html/malfunctionsList.php on line 113
+[29-Apr-2022 10:31:50 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 10:32:32 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 10:32:48 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 10:35:13 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 10:36:10 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 10:37:43 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 10:52:31 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 10:53:33 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 10:53:58 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 10:54:13 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 10:54:31 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 10:54:52 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 10:57:33 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 10:58:04 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 10:58:18 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 10:59:18 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 10:59:44 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 10:59:47 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 10:59:55 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 10:59:59 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 11:00:25 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 11:00:49 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 11:03:57 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 11:05:47 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 11:06:06 UTC] PHP Parse error:  syntax error, unexpected '$rows' (T_VARIABLE), expecting ',' or ';' in /home/ismaisaajb/public_html/malfunctionsList.php on line 90
+[29-Apr-2022 11:06:18 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 11:06:42 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 11:08:30 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 11:11:41 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 11:13:15 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 11:14:18 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 11:16:29 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 11:18:03 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 11:20:03 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 11:20:55 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 11:22:02 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 11:22:46 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 11:23:05 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 11:48:10 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 11:49:53 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 11:51:02 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 11:52:26 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 11:57:20 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 12:03:03 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 12:09:45 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 12:54:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/maistry.php on line 2
+[29-Apr-2022 12:54:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ismaisaajb/public_html/maistry.php on line 42
+[29-Apr-2022 12:54:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ismaisaajb/public_html/maistry.php on line 43
+[29-Apr-2022 12:54:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/maistry.php on line 2
+[29-Apr-2022 12:54:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ismaisaajb/public_html/maistry.php on line 42
+[29-Apr-2022 12:54:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ismaisaajb/public_html/maistry.php on line 43
+[29-Apr-2022 12:56:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/maistry.php on line 2
+[29-Apr-2022 12:56:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ismaisaajb/public_html/maistry.php on line 42
+[29-Apr-2022 12:56:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ismaisaajb/public_html/maistry.php on line 43
+[29-Apr-2022 12:58:45 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 13:00:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/maistry.php on line 2
+[29-Apr-2022 13:00:45 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/maistry.php on line 4
+[29-Apr-2022 13:00:45 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/maistry.php on line 4
+[29-Apr-2022 13:00:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ismaisaajb/public_html/maistry.php on line 40
+[29-Apr-2022 13:01:59 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 13:13:15 UTC] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/ismaisaajb/public_html/new_malfunction.php on line 28
+[29-Apr-2022 13:16:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/maistry.php on line 2
+[29-Apr-2022 13:16:24 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/maistry.php on line 4
+[29-Apr-2022 13:16:24 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/maistry.php on line 4
+[29-Apr-2022 13:16:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ismaisaajb/public_html/maistry.php on line 66
+[29-Apr-2022 13:17:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/maistry.php on line 2
+[29-Apr-2022 13:17:24 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/maistry.php on line 4
+[29-Apr-2022 13:17:24 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/maistry.php on line 4
+[29-Apr-2022 13:17:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/maistry.php on line 2
+[29-Apr-2022 13:17:46 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/maistry.php on line 4
+[29-Apr-2022 13:17:46 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/maistry.php on line 4
+[29-Apr-2022 13:18:25 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/sample.php on line 3
+[29-Apr-2022 13:18:25 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, string given in /home/ismaisaajb/public_html/sample.php on line 5
+[29-Apr-2022 13:18:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ismaisaajb/public_html/sample.php on line 22
+[29-Apr-2022 13:18:58 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/maistry.php on line 18
+[29-Apr-2022 13:18:58 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/maistry.php on line 18
+[29-Apr-2022 13:19:34 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/maistry.php on line 18
+[29-Apr-2022 13:19:34 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/maistry.php on line 18
+[29-Apr-2022 13:19:57 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/maistry.php on line 18
+[29-Apr-2022 13:19:57 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/maistry.php on line 18
+[29-Apr-2022 13:20:02 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/maistry.php on line 18
+[29-Apr-2022 13:20:02 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/maistry.php on line 18
+[29-Apr-2022 13:20:03 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/sample.php on line 3
+[29-Apr-2022 13:20:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, resource given in /home/ismaisaajb/public_html/sample.php on line 22
+[29-Apr-2022 13:20:25 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/maistry.php on line 18
+[29-Apr-2022 13:20:25 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/maistry.php on line 18
+[29-Apr-2022 13:21:31 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/maistry.php on line 18
+[29-Apr-2022 13:21:31 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/maistry.php on line 18
+[29-Apr-2022 13:21:33 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/maistry.php on line 18
+[29-Apr-2022 13:21:33 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/maistry.php on line 18
+[29-Apr-2022 13:21:54 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/maistry.php on line 18
+[29-Apr-2022 13:21:54 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/maistry.php on line 18
+[29-Apr-2022 13:22:01 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/sample.php on line 3
+[29-Apr-2022 13:22:59 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/sample.php on line 3
+[29-Apr-2022 13:23:01 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/sample.php on line 3
+[29-Apr-2022 13:23:24 UTC] PHP Parse error:  syntax error, unexpected '$currentDate' (T_VARIABLE) in /home/ismaisaajb/public_html/new_malfunction.php on line 36
+[29-Apr-2022 13:24:49 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/ismaisaajb/public_html/new_malfunction.php on line 33
+[29-Apr-2022 13:26:58 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/ismaisaajb/public_html/maistry.php on line 44
+[29-Apr-2022 13:27:27 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/ismaisaajb/public_html/maistry.php on line 44
+[29-Apr-2022 13:28:38 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/ismaisaajb/public_html/maistry.php on line 44
+[29-Apr-2022 13:32:00 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/ismaisaajb/public_html/maistry.php on line 44
+[29-Apr-2022 13:34:40 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 13:35:46 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 13:36:54 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 13:38:53 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 14:24:37 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 14:29:49 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 14:30:07 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 14:32:40 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 14:33:18 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 14:33:27 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 14:34:09 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 14:34:15 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 14:34:24 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 14:34:37 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 14:34:52 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 14:37:23 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 14:37:43 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 14:38:58 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 14:39:11 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 14:39:41 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 14:40:04 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[29-Apr-2022 19:51:53 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[30-Apr-2022 10:56:31 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 07:03:14 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 07:04:33 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 07:05:12 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 07:07:48 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 07:08:00 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 07:09:25 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 07:09:36 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 07:12:30 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 07:12:38 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 07:14:04 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 07:14:16 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 07:15:03 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 07:31:57 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 07:32:38 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 07:32:53 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 07:33:47 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 07:33:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/new_malfunction.php on line 63
+[01-May-2022 07:34:16 UTC] PHP Fatal error:  Call to a member function hasFile() on null in /home/ismaisaajb/public_html/new_malfunction.php on line 32
+[01-May-2022 07:34:23 UTC] PHP Fatal error:  Call to a member function hasFile() on null in /home/ismaisaajb/public_html/new_malfunction.php on line 32
+[01-May-2022 07:36:18 UTC] PHP Fatal error:  Call to a member function hasFile() on null in /home/ismaisaajb/public_html/new_malfunction.php on line 32
+[01-May-2022 07:54:33 UTC] PHP Fatal error:  Call to a member function hasFile() on null in /home/ismaisaajb/public_html/new_malfunction.php on line 32
+[01-May-2022 07:56:11 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 07:56:11 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ismaisaajb/public_html/malfunctionsList.php on line 77
+[01-May-2022 07:56:11 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/ismaisaajb/public_html/malfunctionsList.php on line 78
+[01-May-2022 07:56:45 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 07:56:45 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ismaisaajb/public_html/malfunctionsList.php on line 77
+[01-May-2022 07:56:45 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/ismaisaajb/public_html/malfunctionsList.php on line 78
+[01-May-2022 07:58:24 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 07:58:24 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/ismaisaajb/public_html/malfunctionsList.php on line 77
+[01-May-2022 07:59:41 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 07:59:41 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/ismaisaajb/public_html/malfunctionsList.php on line 77
+[01-May-2022 09:17:10 UTC] PHP Fatal error:  Function name must be a string in /home/ismaisaajb/public_html/connect.php on line 25
+[01-May-2022 09:17:55 UTC] PHP Fatal error:  Function name must be a string in /home/ismaisaajb/public_html/connect.php on line 25
+[01-May-2022 10:12:08 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 10:12:08 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/ismaisaajb/public_html/malfunctionsList.php on line 77
+[01-May-2022 10:12:59 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ismaisaajb/public_html/malfunctionsList.php on line 94
+[01-May-2022 10:13:00 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ismaisaajb/public_html/malfunctionsList.php on line 94
+[01-May-2022 10:13:25 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 10:13:59 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 10:15:15 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 10:15:15 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/ismaisaajb/public_html/malfunctionsList.php on line 78
+[01-May-2022 10:15:30 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 10:15:30 UTC] PHP Fatal error:  Call to a member function fetch_array() on null in /home/ismaisaajb/public_html/malfunctionsList.php on line 78
+[01-May-2022 10:15:57 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 10:17:03 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 10:19:42 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 10:20:13 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 10:29:20 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/MalfunctionsListTRY1.php on line 3
+[01-May-2022 10:29:55 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/MalfunctionsListTRY1.php on line 3
+[01-May-2022 10:30:57 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/MalfunctionsListTRY1.php on line 3
+[01-May-2022 10:32:00 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/MalfunctionsListTRY1.php on line 3
+[01-May-2022 10:32:18 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/MalfunctionsListTRY1.php on line 3
+[01-May-2022 10:33:40 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/MalfunctionsListTRY1.php on line 3
+[01-May-2022 10:33:40 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/MalfunctionsListTRY1.php on line 6
+[01-May-2022 10:33:40 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/MalfunctionsListTRY1.php on line 6
+[01-May-2022 10:34:32 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/MalfunctionsListTRY1.php on line 3
+[01-May-2022 10:35:08 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/MalfunctionsListTRY1.php on line 3
+[01-May-2022 10:36:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/MalfunctionsListTRY1.php on line 127
+[01-May-2022 10:37:27 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/MalfunctionsListTRY1.php on line 3
+[01-May-2022 10:38:47 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/MalfunctionsListTRY1.php on line 3
+[01-May-2022 10:39:06 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/MalfunctionsListTRY1.php on line 3
+[01-May-2022 10:39:46 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/MalfunctionsListTRY1.php on line 3
+[01-May-2022 10:40:10 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/MalfunctionsListTRY1.php on line 3
+[01-May-2022 10:40:19 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/MalfunctionsListTRY1.php on line 3
+[01-May-2022 10:41:59 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/MalfunctionsListTRY1.php on line 3
+[01-May-2022 10:42:22 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/MalfunctionsListTRY1.php on line 3
+[01-May-2022 10:42:30 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/MalfunctionsListTRY1.php on line 3
+[01-May-2022 10:43:10 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 10:43:21 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 10:43:38 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 10:44:05 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 10:44:26 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 10:44:39 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 10:45:01 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 10:45:09 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 10:45:32 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 10:45:42 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 10:46:38 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 10:46:55 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 10:47:09 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 10:47:28 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 10:51:12 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 10:51:27 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 10:51:53 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 10:53:20 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 10:53:32 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 10:54:22 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 10:55:17 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 10:56:00 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 10:56:17 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 10:57:02 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 10:57:22 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 10:57:41 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 10:58:23 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 10:58:33 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 10:58:56 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 11:00:17 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 11:00:43 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 11:02:12 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 11:02:26 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 11:02:40 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 11:02:49 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 11:03:03 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 11:03:33 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 11:03:46 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 11:03:50 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 11:04:11 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 11:04:20 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 11:04:28 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 11:04:50 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 11:05:16 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 11:05:41 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 3
+[01-May-2022 12:32:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/tryM.php on line 91
+[01-May-2022 13:54:35 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE), expecting ',' or ';' in /home/ismaisaajb/public_html/new_malfunction.php on line 32
+[02-May-2022 08:41:45 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/ismaisaajb/public_html/aptID.php on line 45
+[02-May-2022 08:42:38 UTC] PHP Fatal error:  Call to undefined function string() in /home/ismaisaajb/public_html/aptID.php on line 45
+[02-May-2022 08:42:54 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/ismaisaajb/public_html/aptID.php on line 45
+[02-May-2022 08:49:58 UTC] PHP Fatal error:  Using $this when not in object context in /home/ismaisaajb/public_html/aptID.php on line 23
+[02-May-2022 08:51:04 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/ismaisaajb/public_html/aptID.php on line 23
+[02-May-2022 08:51:18 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/ismaisaajb/public_html/aptID.php on line 23
+[02-May-2022 08:51:18 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/ismaisaajb/public_html/aptID.php on line 23
+[02-May-2022 08:53:51 UTC] PHP Fatal error:  Call to undefined function fetch_array() in /home/ismaisaajb/public_html/aptID.php on line 24
+[02-May-2022 08:54:35 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/ismaisaajb/public_html/aptID.php on line 24
+[02-May-2022 08:54:52 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/ismaisaajb/public_html/aptID.php on line 24
+[02-May-2022 08:56:28 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/ismaisaajb/public_html/aptID.php on line 25
+[02-May-2022 08:56:29 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/ismaisaajb/public_html/aptID.php on line 25
+[02-May-2022 09:00:32 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in /home/ismaisaajb/public_html/aptID.php on line 24
+[02-May-2022 09:00:49 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/ismaisaajb/public_html/aptID.php on line 24
+[02-May-2022 09:35:47 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/ismaisaajb/public_html/aptID.php on line 47
+[02-May-2022 09:36:06 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/ismaisaajb/public_html/aptID.php on line 47
+[02-May-2022 09:38:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ismaisaajb/public_html/aptID.php on line 47
+[02-May-2022 10:12:40 UTC] PHP Parse error:  syntax error, unexpected 'Error' (T_STRING) in /home/ismaisaajb/public_html/tenantConnection.php on line 28
+[02-May-2022 10:13:24 UTC] PHP Parse error:  syntax error, unexpected 'Error' (T_STRING) in /home/ismaisaajb/public_html/tenantConnection.php on line 28
+[02-May-2022 10:13:38 UTC] PHP Parse error:  syntax error, unexpected 'Error' (T_STRING) in /home/ismaisaajb/public_html/tenantConnection.php on line 28
+[02-May-2022 10:13:49 UTC] PHP Parse error:  syntax error, unexpected 'Error' (T_STRING) in /home/ismaisaajb/public_html/tenantConnection.php on line 28
+[02-May-2022 11:02:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/aptID.php on line 59
+[02-May-2022 11:19:45 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ismaisaajb/public_html/furnitureList.php on line 41
+[02-May-2022 11:19:54 UTC] PHP Warning:  mysqli::query(): Empty query in /home/ismaisaajb/public_html/furnitureList.php on line 36
+[02-May-2022 12:08:38 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/MalfunctionsListTRY.php on line 3
+[02-May-2022 12:08:44 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/MalfunctionsListTRY1.php on line 3
+[02-May-2022 12:08:44 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/MalfunctionsListTRY1.php on line 83
+[02-May-2022 12:36:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/watchFLst.php on line 75
+[02-May-2022 12:38:10 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/watchFLst.php on line 20
+[02-May-2022 12:38:10 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/watchFLst.php on line 20
+[02-May-2022 12:38:10 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/watchFLst.php on line 40
+[02-May-2022 12:46:28 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/watchFLst.php on line 20
+[02-May-2022 12:46:28 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/watchFLst.php on line 20
+[02-May-2022 12:46:28 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/watchFLst.php on line 40
+[02-May-2022 12:48:03 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/watchFLst.php on line 20
+[02-May-2022 12:48:03 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/watchFLst.php on line 20
+[02-May-2022 12:48:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/watchFLst.php on line 40
+[02-May-2022 12:57:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ismaisaajb/public_html/watchFLst.php on line 77
+[02-May-2022 12:58:01 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/watchFLst.php on line 20
+[02-May-2022 12:58:01 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/watchFLst.php on line 20
+[02-May-2022 12:58:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ismaisaajb/public_html/watchFLst.php on line 21
+[02-May-2022 12:58:36 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/watchFLst.php on line 20
+[02-May-2022 12:58:36 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/watchFLst.php on line 20
+[02-May-2022 12:58:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ismaisaajb/public_html/watchFLst.php on line 21
+[02-May-2022 12:58:45 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/watchFLst.php on line 20
+[02-May-2022 12:58:45 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/watchFLst.php on line 20
+[02-May-2022 12:58:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ismaisaajb/public_html/watchFLst.php on line 21
+[02-May-2022 12:59:21 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/watchFLst.php on line 20
+[02-May-2022 12:59:21 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/watchFLst.php on line 20
+[02-May-2022 12:59:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ismaisaajb/public_html/watchFLst.php on line 21
+[02-May-2022 12:59:22 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/watchFLst.php on line 20
+[02-May-2022 12:59:22 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/watchFLst.php on line 20
+[02-May-2022 12:59:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ismaisaajb/public_html/watchFLst.php on line 21
+[02-May-2022 14:35:57 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/tryM.php on line 33
+[02-May-2022 15:50:17 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/ismaisaajb/public_html/contract.php on line 26
+[02-May-2022 15:51:57 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/ismaisaajb/public_html/contract.php on line 26
+[02-May-2022 16:02:31 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, string given in /home/ismaisaajb/public_html/contract.php on line 26
+[02-May-2022 16:04:23 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, string given in /home/ismaisaajb/public_html/contract.php on line 26
+[02-May-2022 19:13:20 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ismaisaajb/public_html/new_malfunction.php on line 45
+[02-May-2022 19:27:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ismaisaajb/public_html/malfunctionsList.php on line 11
+[02-May-2022 19:27:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ismaisaajb/public_html/malfunctionsList.php on line 12
+[02-May-2022 19:30:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ismaisaajb/public_html/malfunctionsList.php on line 7
+[02-May-2022 19:30:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ismaisaajb/public_html/malfunctionsList.php on line 8
+[02-May-2022 19:30:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ismaisaajb/public_html/malfunctionsList.php on line 7
+[02-May-2022 19:35:45 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ismaisaajb/public_html/malfunctionsList.php on line 7
+[02-May-2022 19:35:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ismaisaajb/public_html/malfunctionsList.php on line 8
+[03-May-2022 10:20:07 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/watchCon.php on line 23
+[03-May-2022 10:20:07 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/watchCon.php on line 23
+[03-May-2022 10:20:07 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/watchCon.php on line 76
+[03-May-2022 10:21:20 UTC] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/ismaisaajb/public_html/watchCon.php on line 23
+[03-May-2022 10:21:20 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/ismaisaajb/public_html/watchCon.php on line 76
+[03-May-2022 10:21:59 UTC] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/ismaisaajb/public_html/watchCon.php on line 23
+[03-May-2022 10:21:59 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/ismaisaajb/public_html/watchCon.php on line 76
+[03-May-2022 10:25:39 UTC] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/ismaisaajb/public_html/watchCon.php on line 23
+[03-May-2022 10:25:39 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/ismaisaajb/public_html/watchCon.php on line 76
+[03-May-2022 10:26:09 UTC] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/ismaisaajb/public_html/watchCon.php on line 23
+[03-May-2022 11:37:00 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, object given in /home/ismaisaajb/public_html/displayimage.php on line 21
+[03-May-2022 11:37:00 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/ismaisaajb/public_html/displayimage.php on line 23
+[03-May-2022 11:37:25 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, object given in /home/ismaisaajb/public_html/displayimage.php on line 21
+[03-May-2022 11:37:25 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/ismaisaajb/public_html/displayimage.php on line 23
+[03-May-2022 11:37:26 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, object given in /home/ismaisaajb/public_html/displayimage.php on line 21
+[03-May-2022 11:37:26 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/ismaisaajb/public_html/displayimage.php on line 23
+[03-May-2022 11:37:27 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, object given in /home/ismaisaajb/public_html/displayimage.php on line 21
+[03-May-2022 11:37:27 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/ismaisaajb/public_html/displayimage.php on line 23
+[03-May-2022 11:40:29 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/displayimage.php on line 19
+[03-May-2022 11:40:29 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/displayimage.php on line 19
+[03-May-2022 11:40:29 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/displayimage.php on line 21
+[03-May-2022 11:47:41 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/ismaisaajb/public_html/displayimage.php on line 21
+[03-May-2022 11:53:46 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/ismaisaajb/public_html/displayimage.php on line 21
+[03-May-2022 11:53:52 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 80
+[03-May-2022 12:38:21 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 80
+[03-May-2022 12:39:29 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 80
+[03-May-2022 14:44:24 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/maisaatry.php on line 21
+[03-May-2022 14:44:24 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/ismaisaajb/public_html/maisaatry.php on line 21
+[03-May-2022 14:44:24 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/maisaatry.php on line 22
+[03-May-2022 14:44:24 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/ismaisaajb/public_html/maisaatry.php on line 22
+[03-May-2022 14:45:24 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/maisaatry.php on line 21
+[03-May-2022 14:45:24 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/ismaisaajb/public_html/maisaatry.php on line 21
+[03-May-2022 14:45:24 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/maisaatry.php on line 22
+[03-May-2022 14:45:24 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/ismaisaajb/public_html/maisaatry.php on line 22
+[03-May-2022 14:55:21 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/maisaatry.php on line 21
+[03-May-2022 14:55:21 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/ismaisaajb/public_html/maisaatry.php on line 21
+[03-May-2022 14:55:21 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/maisaatry.php on line 22
+[03-May-2022 14:55:21 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/ismaisaajb/public_html/maisaatry.php on line 22
+[03-May-2022 14:55:21 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/maisaatry.php on line 23
+[03-May-2022 14:55:21 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/ismaisaajb/public_html/maisaatry.php on line 23
+[03-May-2022 14:55:33 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/maisaatry.php on line 21
+[03-May-2022 14:55:33 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/ismaisaajb/public_html/maisaatry.php on line 21
+[03-May-2022 14:55:33 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/maisaatry.php on line 22
+[03-May-2022 14:55:33 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/ismaisaajb/public_html/maisaatry.php on line 22
+[03-May-2022 14:55:33 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/maisaatry.php on line 23
+[03-May-2022 14:55:33 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/ismaisaajb/public_html/maisaatry.php on line 23
+[03-May-2022 14:55:50 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/maisaatry.php on line 21
+[03-May-2022 14:55:50 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/ismaisaajb/public_html/maisaatry.php on line 21
+[03-May-2022 14:55:50 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/maisaatry.php on line 22
+[03-May-2022 14:55:50 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/ismaisaajb/public_html/maisaatry.php on line 22
+[03-May-2022 14:55:50 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/maisaatry.php on line 23
+[03-May-2022 14:55:50 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/ismaisaajb/public_html/maisaatry.php on line 23
+[03-May-2022 15:04:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ismaisaajb/public_html/maisaatry.php on line 25
+[03-May-2022 15:04:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ismaisaajb/public_html/maisaatry.php on line 26
+[03-May-2022 15:04:13 UTC] PHP Fatal error:  Call to a member function query() on null in /home/ismaisaajb/public_html/maisaatry.php on line 34
+[03-May-2022 16:04:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ismaisaajb/public_html/login.php on line 27
+[03-May-2022 16:04:57 UTC] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/ismaisaajb/public_html/login.php on line 26
+[03-May-2022 16:04:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ismaisaajb/public_html/login.php on line 27
+[03-May-2022 16:05:29 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/ismaisaajb/public_html/login.php on line 27
+[03-May-2022 16:05:49 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/login.php on line 27
+[03-May-2022 16:07:14 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/login.php on line 27
+[03-May-2022 16:07:14 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/login.php on line 27
+[03-May-2022 16:08:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ismaisaajb/public_html/login.php on line 27
+[03-May-2022 16:09:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/ismaisaajb/public_html/login.php on line 27
+[03-May-2022 16:09:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/ismaisaajb/public_html/login.php on line 27
+[03-May-2022 16:11:04 UTC] PHP Warning:  Illegal string offset 'role' in /home/ismaisaajb/public_html/login.php on line 31
+[03-May-2022 16:11:04 UTC] PHP Warning:  Illegal string offset 'role' in /home/ismaisaajb/public_html/login.php on line 33
+[03-May-2022 16:11:53 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/ismaisaajb/public_html/login.php on line 31
+[03-May-2022 16:11:53 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/ismaisaajb/public_html/login.php on line 31
+[03-May-2022 16:12:50 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/ismaisaajb/public_html/login.php on line 31
+[03-May-2022 16:13:12 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/ismaisaajb/public_html/login.php on line 31
+[03-May-2022 16:17:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ismaisaajb/public_html/login.php on line 24
+[03-May-2022 16:17:19 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/ismaisaajb/public_html/login.php on line 33
+[03-May-2022 16:19:46 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ismaisaajb/public_html/login.php on line 23
+[03-May-2022 16:19:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ismaisaajb/public_html/login.php on line 24
+[03-May-2022 16:20:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ismaisaajb/public_html/login.php on line 24
+[03-May-2022 16:21:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ismaisaajb/public_html/login.php on line 24
+[03-May-2022 16:21:47 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/login.php on line 24
+[03-May-2022 16:22:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/ismaisaajb/public_html/login.php on line 24
+[03-May-2022 16:22:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ismaisaajb/public_html/login.php on line 24
+[03-May-2022 19:11:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ismaisaajb/public_html/login.php on line 24
+[04-May-2022 12:36:33 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/ismaisaajb/public_html/login.php on line 36
+[04-May-2022 12:36:33 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/ismaisaajb/public_html/login.php on line 36
+[04-May-2022 12:36:50 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/ismaisaajb/public_html/login.php on line 36
+[04-May-2022 12:39:14 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/ismaisaajb/public_html/login.php on line 36
+[04-May-2022 12:47:34 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/ismaisaajb/public_html/login.php on line 37
+[04-May-2022 12:58:14 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/login.php on line 35
+[04-May-2022 12:58:14 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/login.php on line 35
+[04-May-2022 12:58:14 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/login.php on line 36
+[04-May-2022 12:58:42 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/login.php on line 35
+[04-May-2022 12:58:42 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/login.php on line 35
+[04-May-2022 12:58:42 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/login.php on line 36
+[04-May-2022 12:59:45 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/login.php on line 34
+[04-May-2022 12:59:45 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/login.php on line 34
+[04-May-2022 12:59:45 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/login.php on line 35
+[04-May-2022 13:01:41 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ismaisaajb/public_html/login.php on line 34
+[04-May-2022 13:01:41 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ismaisaajb/public_html/login.php on line 35
+[04-May-2022 13:01:41 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ismaisaajb/public_html/login.php on line 34
+[04-May-2022 13:01:41 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ismaisaajb/public_html/login.php on line 35
+[04-May-2022 13:01:52 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ismaisaajb/public_html/login.php on line 34
+[04-May-2022 13:01:52 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ismaisaajb/public_html/login.php on line 35
+[04-May-2022 13:03:12 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/ismaisaajb/public_html/login.php on line 35
+[04-May-2022 13:05:47 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/ismaisaajb/public_html/login.php on line 35
+[04-May-2022 13:06:25 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/ismaisaajb/public_html/login.php on line 35
+[04-May-2022 13:10:37 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/ismaisaajb/public_html/login.php on line 35
+[04-May-2022 13:34:36 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ismaisaajb/public_html/watchCon.php on line 37
+[04-May-2022 13:34:53 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ismaisaajb/public_html/watchCon.php on line 37
+[04-May-2022 13:40:45 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ismaisaajb/public_html/watchCon.php on line 37
+[04-May-2022 13:40:52 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ismaisaajb/public_html/watchCon.php on line 37
+[04-May-2022 13:40:53 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ismaisaajb/public_html/watchCon.php on line 37
+[04-May-2022 13:41:02 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ismaisaajb/public_html/watchCon.php on line 37
+[04-May-2022 13:41:03 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ismaisaajb/public_html/watchCon.php on line 37
+[04-May-2022 13:41:04 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ismaisaajb/public_html/watchCon.php on line 37
+[04-May-2022 13:47:53 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/malfunctionsList.php on line 24
+[04-May-2022 13:47:53 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/malfunctionsList.php on line 24
+[04-May-2022 13:47:53 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/malfunctionsList.php on line 80
+[04-May-2022 14:48:29 UTC] PHP Warning:  include_once(malfunctionsListConnection.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/tryM.php on line 2
+[04-May-2022 14:48:29 UTC] PHP Warning:  include_once(): Failed opening 'malfunctionsListConnection.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ismaisaajb/public_html/tryM.php on line 2
+[04-May-2022 14:48:29 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ismaisaajb/public_html/tryM.php on line 4
+[04-May-2022 14:48:29 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ismaisaajb/public_html/tryM.php on line 4
+[04-May-2022 14:48:29 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ismaisaajb/public_html/tryM.php on line 33
+[04-May-2022 22:52:13 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ismaisaajb/public_html/upload.php on line 84
+[04-May-2022 22:53:05 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ismaisaajb/public_html/upload.php on line 84
+[04-May-2022 23:00:30 UTC] PHP Fatal error:  Call to undefined function displayimagefromdatabase() in /home/ismaisaajb/public_html/upload.php on line 64
+[06-May-2022 13:58:52 UTC] PHP Fatal error:  Call to a member function query() on null in /home/ismaisaajb/public_html/malfunctionsList.php on line 29
+[07-May-2022 12:40:35 UTC] PHP Fatal error:  Call to a member function query() on null in /home/ismaisaajb/public_html/try.php on line 28
+[07-May-2022 12:44:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/try.php on line 90
+[07-May-2022 13:01:39 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on array in /home/ismaisaajb/public_html/try.php on line 55
+[07-May-2022 14:36:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/try2.php on line 108
+[07-May-2022 16:30:45 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/ismaisaajb/public_html/try.php on line 34
+[07-May-2022 16:32:27 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/ismaisaajb/public_html/try.php on line 34
+[07-May-2022 16:32:28 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/ismaisaajb/public_html/try.php on line 34
+[07-May-2022 16:32:29 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/ismaisaajb/public_html/try.php on line 34
+[08-May-2022 09:38:58 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ismaisaajb/public_html/watchCon.php on line 108
+[08-May-2022 09:39:19 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ismaisaajb/public_html/watchCon.php on line 108
+[08-May-2022 09:40:42 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ismaisaajb/public_html/watchCon.php on line 109
+[10-May-2022 19:14:48 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/new_malfunction.php on line 51
+[10-May-2022 19:14:48 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/new_malfunction.php on line 51
+[10-May-2022 19:14:48 UTC] PHP Fatal error:  require(): Failed opening required './vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ismaisaajb/public_html/new_malfunction.php on line 51
+[10-May-2022 19:16:48 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/new_malfunction.php on line 51
+[10-May-2022 19:16:48 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/new_malfunction.php on line 51
+[10-May-2022 19:16:48 UTC] PHP Fatal error:  require(): Failed opening required './vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ismaisaajb/public_html/new_malfunction.php on line 51
+[10-May-2022 19:25:19 UTC] PHP Fatal error:  Call to a member function listEvents() on null in /home/ismaisaajb/public_html/viewgc.php on line 8
+[10-May-2022 19:30:22 UTC] PHP Fatal error:  Call to a member function listEvents() on null in /home/ismaisaajb/public_html/viewgc.php on line 8
+[10-May-2022 19:31:02 UTC] PHP Fatal error:  Call to a member function listEvents() on null in /home/ismaisaajb/public_html/viewgc.php on line 7
+[10-May-2022 19:32:16 UTC] PHP Fatal error:  Call to a member function listEvents() on null in /home/ismaisaajb/public_html/viewgc.php on line 7
+[10-May-2022 19:33:52 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/viewgc.php on line 4
+[10-May-2022 19:33:52 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/viewgc.php on line 4
+[10-May-2022 19:33:52 UTC] PHP Fatal error:  require(): Failed opening required './vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ismaisaajb/public_html/viewgc.php on line 4
+[10-May-2022 19:34:38 UTC] PHP Warning:  require(public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/viewgc.php on line 4
+[10-May-2022 19:34:38 UTC] PHP Warning:  require(public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/viewgc.php on line 4
+[10-May-2022 19:34:38 UTC] PHP Fatal error:  require(): Failed opening required 'public_html/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ismaisaajb/public_html/viewgc.php on line 4
+[10-May-2022 19:34:54 UTC] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/viewgc.php on line 4
+[10-May-2022 19:34:54 UTC] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/viewgc.php on line 4
+[10-May-2022 19:34:54 UTC] PHP Fatal error:  require(): Failed opening required '../vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ismaisaajb/public_html/viewgc.php on line 4
+[10-May-2022 19:37:05 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/viewgc.php on line 4
+[10-May-2022 19:37:05 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/viewgc.php on line 4
+[10-May-2022 19:37:05 UTC] PHP Fatal error:  require(): Failed opening required './vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ismaisaajb/public_html/viewgc.php on line 4
+[10-May-2022 19:45:37 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/viewgc.php on line 4
+[10-May-2022 19:45:37 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/viewgc.php on line 4
+[10-May-2022 19:45:37 UTC] PHP Fatal error:  require(): Failed opening required './vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ismaisaajb/public_html/viewgc.php on line 4
+[10-May-2022 19:48:49 UTC] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/viewgc.php on line 4
+[10-May-2022 19:48:49 UTC] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/viewgc.php on line 4
+[10-May-2022 19:48:49 UTC] PHP Fatal error:  require(): Failed opening required '../vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ismaisaajb/public_html/viewgc.php on line 4
+[10-May-2022 19:50:41 UTC] PHP Warning:  require(/home/ismaisaajb/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/viewgc.php on line 4
+[10-May-2022 19:50:41 UTC] PHP Fatal error:  require(): Failed opening required '/home/ismaisaajb/public_html/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ismaisaajb/public_html/viewgc.php on line 4
+[10-May-2022 19:51:47 UTC] PHP Parse error:  syntax error, unexpected ''/vendor/autoload.php'' (T_CONSTANT_ENCAPSED_STRING) in /home/ismaisaajb/public_html/viewgc.php on line 4
+[10-May-2022 19:52:02 UTC] PHP Warning:  require_once(/vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/viewgc.php on line 4
+[10-May-2022 19:52:02 UTC] PHP Fatal error:  require_once(): Failed opening required '/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ismaisaajb/public_html/viewgc.php on line 4
+[10-May-2022 19:53:41 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/new_malfunction.php on line 51
+[10-May-2022 19:53:41 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/new_malfunction.php on line 51
+[10-May-2022 19:53:41 UTC] PHP Fatal error:  require(): Failed opening required './vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ismaisaajb/public_html/new_malfunction.php on line 51
+[10-May-2022 19:55:24 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/new_malfunction.php on line 51
+[10-May-2022 19:55:24 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/new_malfunction.php on line 51
+[10-May-2022 19:55:24 UTC] PHP Fatal error:  require(): Failed opening required './vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ismaisaajb/public_html/new_malfunction.php on line 51
+[10-May-2022 19:59:18 UTC] PHP Warning:  require_once(/vendor/vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/viewgc.php on line 4
+[10-May-2022 19:59:18 UTC] PHP Fatal error:  require_once(): Failed opening required '/vendor/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ismaisaajb/public_html/viewgc.php on line 4
+[10-May-2022 20:00:14 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'file does not exist' in /home/ismaisaajb/public_html/vendor/vendor/google/apiclient/src/Google/Client.php:839
+Stack trace:
+#0 /home/ismaisaajb/public_html/viewgc.php(11): Google_Client->setAuthConfig('/home/ismaisaaj...')
+#1 {main}
+  thrown in /home/ismaisaajb/public_html/vendor/vendor/google/apiclient/src/Google/Client.php on line 839
+[10-May-2022 20:04:32 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'file does not exist' in /home/ismaisaajb/public_html/vendor/vendor/google/apiclient/src/Google/Client.php:839
+Stack trace:
+#0 /home/ismaisaajb/public_html/new_malfunction.php(58): Google_Client->setAuthConfig('/home/ismaisaaj...')
+#1 {main}
+  thrown in /home/ismaisaajb/public_html/vendor/vendor/google/apiclient/src/Google/Client.php on line 839
+[10-May-2022 20:04:48 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'file does not exist' in /home/ismaisaajb/public_html/vendor/vendor/google/apiclient/src/Google/Client.php:839
+Stack trace:
+#0 /home/ismaisaajb/public_html/viewgc.php(11): Google_Client->setAuthConfig('/home/ismaisaaj...')
+#1 {main}
+  thrown in /home/ismaisaajb/public_html/vendor/vendor/google/apiclient/src/Google/Client.php on line 839
+[10-May-2022 20:06:43 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'file does not exist' in /home/ismaisaajb/public_html/vendor/vendor/google/apiclient/src/Google/Client.php:839
+Stack trace:
+#0 /home/ismaisaajb/public_html/new_malfunction.php(58): Google_Client->setAuthConfig('/home/ismaisaaj...')
+#1 {main}
+  thrown in /home/ismaisaajb/public_html/vendor/vendor/google/apiclient/src/Google/Client.php on line 839
+[10-May-2022 20:09:25 UTC] PHP Warning:  require_once(public_html/vendor/vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/viewgc.php on line 4
+[10-May-2022 20:09:25 UTC] PHP Fatal error:  require_once(): Failed opening required 'public_html/vendor/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ismaisaajb/public_html/viewgc.php on line 4
+[10-May-2022 20:10:07 UTC] PHP Warning:  require_once(home/ismaisaajb/public_html/vendor/vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/viewgc.php on line 4
+[10-May-2022 20:10:07 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/ismaisaajb/public_html/vendor/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ismaisaajb/public_html/viewgc.php on line 4
+[10-May-2022 20:14:56 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'file does not exist' in /home/ismaisaajb/public_html/vendor/google/apiclient/src/Google/Client.php:839
+Stack trace:
+#0 /home/ismaisaajb/public_html/new_malfunction.php(58): Google_Client->setAuthConfig('/home/ismaisaaj...')
+#1 {main}
+  thrown in /home/ismaisaajb/public_html/vendor/google/apiclient/src/Google/Client.php on line 839
+[10-May-2022 20:15:35 UTC] PHP Warning:  require_once(home/ismaisaajb/public_html/vendor/vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/viewgc.php on line 4
+[10-May-2022 20:15:35 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/ismaisaajb/public_html/vendor/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ismaisaajb/public_html/viewgc.php on line 4
+[11-May-2022 09:22:14 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'file does not exist' in /home/ismaisaajb/public_html/vendor/google/apiclient/src/Google/Client.php:839
+Stack trace:
+#0 /home/ismaisaajb/public_html/new_malfunction.php(58): Google_Client->setAuthConfig('/home/ismaisaaj...')
+#1 {main}
+  thrown in /home/ismaisaajb/public_html/vendor/google/apiclient/src/Google/Client.php on line 839
+[11-May-2022 09:24:31 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'file does not exist' in /home/ismaisaajb/public_html/vendor/google/apiclient/src/Google/Client.php:839
+Stack trace:
+#0 /home/ismaisaajb/public_html/new_malfunction.php(58): Google_Client->setAuthConfig('/home/ismaisaaj...')
+#1 {main}
+  thrown in /home/ismaisaajb/public_html/vendor/google/apiclient/src/Google/Client.php on line 839
+[11-May-2022 09:27:59 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'file does not exist' in /home/ismaisaajb/public_html/vendor/google/apiclient/src/Google/Client.php:839
+Stack trace:
+#0 /home/ismaisaajb/public_html/seevent.php(9): Google_Client->setAuthConfig('/home/ismaisaaj...')
+#1 {main}
+  thrown in /home/ismaisaajb/public_html/vendor/google/apiclient/src/Google/Client.php on line 839
+[11-May-2022 11:58:00 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'file does not exist' in /home/ismaisaajb/public_html/vendor/google/apiclient/src/Google/Client.php:839
+Stack trace:
+#0 /home/ismaisaajb/public_html/new_malfunction.php(58): Google_Client->setAuthConfig('/home/ismaisaaj...')
+#1 {main}
+  thrown in /home/ismaisaajb/public_html/vendor/google/apiclient/src/Google/Client.php on line 839
+[11-May-2022 12:15:26 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'file does not exist' in /home/ismaisaajb/public_html/vendor/google/apiclient/src/Google/Client.php:839
+Stack trace:
+#0 /home/ismaisaajb/public_html/seevent.php(9): Google_Client->setAuthConfig('/home/ismaisaaj...')
+#1 {main}
+  thrown in /home/ismaisaajb/public_html/vendor/google/apiclient/src/Google/Client.php on line 839
+[11-May-2022 12:29:25 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'file does not exist' in /home/ismaisaajb/public_html/vendor/google/apiclient/src/Google/Client.php:839
+Stack trace:
+#0 /home/ismaisaajb/public_html/new_malfunction.php(58): Google_Client->setAuthConfig('/home/ismaisaaj...')
+#1 {main}
+  thrown in /home/ismaisaajb/public_html/vendor/google/apiclient/src/Google/Client.php on line 839
+[11-May-2022 12:31:13 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'file does not exist' in /home/ismaisaajb/public_html/vendor/google/apiclient/src/Google/Client.php:839
+Stack trace:
+#0 /home/ismaisaajb/public_html/new_malfunction.php(58): Google_Client->setAuthConfig('/home/ismaisaaj...')
+#1 {main}
+  thrown in /home/ismaisaajb/public_html/vendor/google/apiclient/src/Google/Client.php on line 839
+[11-May-2022 17:36:13 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'file does not exist' in /home/ismaisaajb/public_html/vendor/google/apiclient/src/Google/Client.php:839
+Stack trace:
+#0 /home/ismaisaajb/public_html/new_malfunction.php(58): Google_Client->setAuthConfig('/home/ismaisaaj...')
+#1 {main}
+  thrown in /home/ismaisaajb/public_html/vendor/google/apiclient/src/Google/Client.php on line 839
+[11-May-2022 18:34:25 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'file does not exist' in /home/ismaisaajb/public_html/vendor/google/apiclient/src/Google/Client.php:839
+Stack trace:
+#0 /home/ismaisaajb/public_html/new_malfunction.php(58): Google_Client->setAuthConfig('/home/ismaisaaj...')
+#1 {main}
+  thrown in /home/ismaisaajb/public_html/vendor/google/apiclient/src/Google/Client.php on line 839
+[13-May-2022 05:32:33 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/new_malfunction.php on line 45
+[13-May-2022 05:32:33 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/new_malfunction.php on line 45
+[13-May-2022 05:32:33 UTC] PHP Fatal error:  require(): Failed opening required './vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ismaisaajb/public_html/new_malfunction.php on line 45
+[13-May-2022 07:56:11 UTC] PHP Fatal error:  Call to a member function query() on null in /home/ismaisaajb/public_html/new_malfunction.php on line 38
+[13-May-2022 07:56:56 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/new_malfunction.php on line 46
+[13-May-2022 07:56:56 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/new_malfunction.php on line 46
+[13-May-2022 07:56:56 UTC] PHP Fatal error:  require(): Failed opening required './vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ismaisaajb/public_html/new_malfunction.php on line 46
+[13-May-2022 08:08:14 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/new_malfunction.php on line 46
+[13-May-2022 08:08:14 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/new_malfunction.php on line 46
+[13-May-2022 08:08:14 UTC] PHP Fatal error:  require(): Failed opening required './vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ismaisaajb/public_html/new_malfunction.php on line 46
+[13-May-2022 08:30:09 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/new_malfunction.php on line 46
+[13-May-2022 08:30:09 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/new_malfunction.php on line 46
+[13-May-2022 08:30:09 UTC] PHP Fatal error:  require(): Failed opening required './vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ismaisaajb/public_html/new_malfunction.php on line 46
+[13-May-2022 08:35:13 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/new_malfunction.php on line 46
+[13-May-2022 08:35:13 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/new_malfunction.php on line 46
+[13-May-2022 08:35:13 UTC] PHP Fatal error:  require(): Failed opening required './vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ismaisaajb/public_html/new_malfunction.php on line 46
+[13-May-2022 08:46:27 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/new_malfunction.php on line 46
+[13-May-2022 08:46:27 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/new_malfunction.php on line 46
+[13-May-2022 08:46:27 UTC] PHP Fatal error:  require(): Failed opening required './vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ismaisaajb/public_html/new_malfunction.php on line 46
+[13-May-2022 09:11:09 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/new_malfunction.php on line 46
+[13-May-2022 09:11:09 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/new_malfunction.php on line 46
+[13-May-2022 09:11:09 UTC] PHP Fatal error:  require(): Failed opening required './vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ismaisaajb/public_html/new_malfunction.php on line 46
+[13-May-2022 09:54:41 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/new_malfunction.php on line 46
+[13-May-2022 09:54:41 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/new_malfunction.php on line 46
+[13-May-2022 09:54:41 UTC] PHP Fatal error:  require(): Failed opening required './vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ismaisaajb/public_html/new_malfunction.php on line 46
+[13-May-2022 14:33:47 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/new_malfunction.php on line 46
+[13-May-2022 14:33:47 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/new_malfunction.php on line 46
+[13-May-2022 14:33:47 UTC] PHP Fatal error:  require(): Failed opening required './vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ismaisaajb/public_html/new_malfunction.php on line 46
+[13-May-2022 14:47:45 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/new_malfunction.php on line 46
+[13-May-2022 14:47:45 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/new_malfunction.php on line 46
+[13-May-2022 14:47:45 UTC] PHP Fatal error:  require(): Failed opening required './vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ismaisaajb/public_html/new_malfunction.php on line 46
+[14-May-2022 17:07:14 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/new_malfunction.php on line 46
+[14-May-2022 17:07:14 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/new_malfunction.php on line 46
+[14-May-2022 17:07:14 UTC] PHP Fatal error:  require(): Failed opening required './vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ismaisaajb/public_html/new_malfunction.php on line 46
+[15-May-2022 05:46:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/oncancel.php on line 41
+[15-May-2022 05:47:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/oncancel.php on line 42
+[15-May-2022 06:14:11 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ismaisaajb/public_html/oncancel.php on line 29
+[15-May-2022 06:43:26 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/new_malfunction.php on line 46
+[15-May-2022 06:43:26 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/new_malfunction.php on line 46
+[15-May-2022 06:43:26 UTC] PHP Fatal error:  require(): Failed opening required './vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ismaisaajb/public_html/new_malfunction.php on line 46
+[15-May-2022 07:04:46 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ismaisaajb/public_html/oncancel.php on line 17
+[15-May-2022 09:56:44 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/new_malfunction.php on line 46
+[15-May-2022 09:56:44 UTC] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/new_malfunction.php on line 46
+[15-May-2022 09:56:44 UTC] PHP Fatal error:  require(): Failed opening required './vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ismaisaajb/public_html/new_malfunction.php on line 46

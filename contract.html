@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contract</title>
+    <link rel="stylesheet" href="contract.css">
+    <link rel="stylesheet" href="submit.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <link rel="shortcut icon" href="photos/icon.png" />
+    <!--blocks all the dates that passed-->
+    <script>
+        $(document).ready(function(){
+            $(function(){
+                var dtToday = new Date();
+
+                var month = dtToday.getMonth() + 1;
+                var day = dtToday.getDate();
+                var year = dtToday.getFullYear();
+                if(month < 10)
+                    month = '0' + month.toString();
+                if(day < 10)
+                    day = '0' + day.toString();
+                    
+                var maxDate = year + '-' + month + '-' + day;
+                
+                $('#Sdate').attr('min',maxDate);
+            });
+        })
+        
+        
+        $(document).ready(function(){
+            $(function(){
+                var dtToday = new Date();
+
+                var month = dtToday.getMonth() + 1;
+                var day = dtToday.getDate();
+                var year = dtToday.getFullYear();
+                if(month < 10)
+                    month = '0' + month.toString();
+                if(day < 10)
+                    day = '0' + day.toString();
+                    
+                var maxDate = year + '-' + month + '-' + day;
+                
+                $('#Edate').attr('min',maxDate);
+            });
+        })
+    </script>
+    
+</head>
+
+<body>
+    <header>
+        <div>
+            <p class="slogan1"> Tenant Management </p>
+        </div>
+    </header>
+
+    <main>
+        <!--contract form -->
+        <form action="contract.php" method="POST">
+            
+            <div class='rent'>Monthly Rent:</div>
+            <input id = "pricee" class='input' type="text" name = "pricee" required >
+            <div class='bills' style="color: #487288;" > *Bills are not included</div>
+            <div class='datetxt' style="color: #487288;">Pick a date:</div>
+            <div class='date' style="color: #426578;">Contract start date:</div>
+            <input class='cal dd' type="date" id="Sdate"  min="2020-01-01" name="Sdate" required>
+            <div class='date' style="color: #426578;">Contract end date:</div>
+            <input class='cal dd' type="date" id="Edate"  min="2020-01-01"  name="Edate" required>
+            <div class='contxt' style="color: #487288;">Build your contract:</div>
+            <textarea  id = "contractt"  name = "contractt" rows="20" class='contract'>Home owner: _______________________ and Tenant: _______________.
+1. Premises. The premises leased is an apartment.
+
+2. Agreement to Lease. Landlord agrees to lease to Tenant and Tenant agrees to lease from Landlord, according to the terms and conditions set forth herein, the Premises.
+
+3. Late Fee. 
+
+A late fee will be charged if rent is not paid on time. Rent paid after the 10 day of each month will be deemed as late; and if rent is not paid within 9 days after such due date, Tenant agrees to pay:
+
+4. Additional Rent. There may be instances under this Agreement where Tenant may be required to pay additional charges to Landlord. All such charges are considered additional rent under this Agreement and will be paid with the next regularly scheduled rent payment.  Landlord has the same rights and Tenant has the same obligations with respect to additional rent as they do with rent.  
+
+5. Security Deposit. Upon signing this Agreement, Tenant will pay a security deposit in the amount of $2000 to Landlord. The security deposit will be retained by Landlord as security for Tenant’s performance of its obligations under this Agreement. The security deposit may not be used or deducted by Tenant as the last month’s rent of the Term. Tenant will be entitled to a full refund of the security deposit if Tenant returns possession of the Premises to Landlord in the same condition as accepted, ordinary wear and tear excepted. Within 5 days after the termination of this Agreement, Landlord will return the security deposit to Tenant (minus any amount applied by Landlord in accordance with this section). Any reason for retaining a portion of the security deposit will be explained in writing.
+
+6. Owners Failure to Give Possession. In the event Landlord is unable to give possession of the Premises to Tenant on the start date of the Term, Landlord will not be subject to any liability for such failure, the validity of this Agreement will not be affected, and the Term will not be extended. Tenant will not be liable for rent until Landlord gives possession of the Premises to Tenant.
+
+7. Use of Premises. The Premises will be occupied only by Tenant and Tenant’s immediate family and used only for residential purposes. Tenant will not engage in any objectionable conduct, including behavior which will make the Premises less fit to live in, will cause dangerous, hazardous or unsanitary conditions or will interfere with the rights of others to enjoy their property. Tenant will be liable for any damage occurring to the Premises and any damage to or loss of the contents thereof which is done by Tenant or Tenant’s guests or invitees.
+
+</textarea>
+        
+        <input type="submit" class='savebutton btn iphone' onclick='' value='save'> 
+        </form>
+    </main>
+</body>
