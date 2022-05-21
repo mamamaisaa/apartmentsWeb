@@ -1,0 +1,21 @@
+[10-May-2022 14:56:39 UTC] PHP Parse error:  syntax error, unexpected '$txt' (T_VARIABLE) in /home/ismaisaajb/public_html/chat_test/chat.php on line 51
+[10-May-2022 15:12:20 UTC] PHP Warning:  Illegal string offset 'text' in /home/ismaisaajb/public_html/chat_test/chat.php on line 49
+[10-May-2022 15:12:24 UTC] PHP Warning:  Illegal string offset 'text' in /home/ismaisaajb/public_html/chat_test/chat.php on line 49
+[10-May-2022 15:20:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ismaisaajb/public_html/chat_test/chat.php on line 73
+[12-May-2022 15:45:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ismaisaajb/public_html/chat_test/chat.php on line 21
+[12-May-2022 15:45:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ismaisaajb/public_html/chat_test/chat.php on line 21
+[12-May-2022 15:46:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ismaisaajb/public_html/chat_test/chat.php on line 21
+[12-May-2022 15:46:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ismaisaajb/public_html/chat_test/chat.php on line 21
+[12-May-2022 15:46:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ismaisaajb/public_html/chat_test/chat.php on line 21
+[12-May-2022 15:46:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ismaisaajb/public_html/chat_test/chat.php on line 21
+[12-May-2022 15:46:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ismaisaajb/public_html/chat_test/chat.php on line 21
+[12-May-2022 15:46:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ismaisaajb/public_html/chat_test/chat.php on line 21
+[12-May-2022 15:47:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ismaisaajb/public_html/chat_test/chat.php on line 21
+[12-May-2022 15:47:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ismaisaajb/public_html/chat_test/chat.php on line 21
+[12-May-2022 15:47:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ismaisaajb/public_html/chat_test/chat.php on line 21
+[12-May-2022 17:23:26 UTC] PHP Warning:  require_once(phpQuery/phpQuery/phpQuery.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/chat_test/chat.php on line 26
+[12-May-2022 17:23:26 UTC] PHP Fatal error:  require_once(): Failed opening required 'phpQuery/phpQuery/phpQuery.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ismaisaajb/public_html/chat_test/chat.php on line 26
+[12-May-2022 17:23:43 UTC] PHP Warning:  require_once(phpQuery/phpQuery/phpQuery.php): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/chat_test/chat.php on line 26
+[12-May-2022 17:23:43 UTC] PHP Fatal error:  require_once(): Failed opening required 'phpQuery/phpQuery/phpQuery.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ismaisaajb/public_html/chat_test/chat.php on line 26
+[12-May-2022 17:23:56 UTC] PHP Warning:  file_get_contents(back): failed to open stream: No such file or directory in /home/ismaisaajb/public_html/chat_test/chat.php on line 27
+[12-May-2022 17:23:56 UTC] PHP Fatal error:  Class 'phpQuery' not found in /home/ismaisaajb/public_html/chat_test/chat.php on line 28

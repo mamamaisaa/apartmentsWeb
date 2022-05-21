@@ -1,0 +1,128 @@
+html,body{
+            background-color: #F7F7F7;
+            height: 100%;
+            width:100%;
+            background-image: url('background.jpg');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: 100% 100%;
+        }
+        *{
+            margin: 0;
+            box-sizing: border-box;
+            font-family: Arial;
+        }
+        main{
+            width:100%;
+            height:80%;
+            margin:auto;
+        }
+        header{
+            width:50%;
+            height:10%;
+            margin:auto;
+            background-color: #487288;
+            border-radius:4px;
+            border:1px solid  #487288; 
+            margin-bottom:2px;
+            text-align:center;
+        }
+		.cht{
+	        width:50%;
+	        height:80%;
+	        margin:auto;
+	        clear:both;
+		    border:1px solid #487288;
+		    overflow: auto;
+		    background-color:#F7F7F7;
+	        border-radius:4px;
+	        margin-bottom:0px;
+		}
+		.sendtxt{
+	        width: 89.2%;
+	        height:100%;
+	        border:1px solid #487288; 
+	        background-color: #f8f7e7;
+	        margin-top:0px;
+	        margin-right:0px;
+	        border-radius:4px;
+	    }
+	    .submit{
+		    width: 10%;
+	        height:100%; 
+	        border:1px solid #487288; 
+	        background-color: #f8f7e7;
+	        border-radius:4px;
+	        margin-top:0px;
+	        margin-left:0px;
+		}
+		form{
+		    width:50%;
+		    height:5%;
+		    margin:auto;
+		    margin-top:2px;
+		}
+		.submit:hover{
+	        border:2px solid #487288; 
+		}
+		
+	
+		.me{
+		    background-color:#1A5058;
+		    color:white;
+		    clear:both;
+		    float:right;
+		    border-radius:6px 6px 0 6px;
+		    margin-bottom:2px;
+		    height:28px;
+		    margin-right:3px;
+		}  
+		.other{
+		    background-color: #E1C88D;
+		    color:white;
+		    clear:both;
+		    float:left;
+		    border-radius: 6px 6px 6px 0;
+		    margin-bottom:2px;
+		    height:28px;
+		    margin-left:3px;
+		}
+		.spacing{
+		    width:50%;
+		    height:5%;
+		}
+		.txt{
+		    height:70%;
+		    
+		}
+		.time{
+		    height:10%;
+		    color:white;
+		    font-size:7px;
+		}
+		span{
+            color:#E1C88D;
+            font-size:50px;
+            float:left;
+            margin-left:2px;
+        }
+        @media screen and (max-width: 700px) {
+            span{
+                font-size:40px;
+            }
+            header,main{
+                width:90%;
+            }
+            .cht,form{
+                width:100%;
+            }
+            .cht{
+                height:90%;
+            }
+            .sendtxt{
+                width:87.5%;
+            }
+            .submit{
+		        width: 11%;
+            }
+        }
