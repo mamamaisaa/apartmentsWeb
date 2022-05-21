@@ -1,0 +1,151 @@
+
+header{
+    width: 100%;
+    height: 25%;
+}
+
+.head1{
+    width: 100%;
+    height: 70%;
+    text-align: center;
+    display: flex;
+}
+
+.login{
+    color:#E1C88D;
+    font-size: 10ex;
+    margin: auto;
+}
+
+.head2{
+    width: 100%;
+    height: 30%;
+    text-align: center;
+    display: flex;
+}
+
+.signup{
+    color:#1A5058;
+    font-size: 4ex;
+    display: inline;
+    margin: auto;
+}
+
+.signup:hover{
+    font-weight: bold;
+}
+
+main{
+    width: 90%;
+    height: 70%;
+    display: inline-block;
+}
+
+section{
+     float: left;
+     text-align: center;
+     width: 50%;
+     height: 100%;
+}
+
+img{
+    margin: auto;
+    height: 80%;
+}
+
+.slogan{
+    color: #426578;
+    font-size: 4ex;
+    font-weight: bold;
+}
+
+.user{
+    width: 50%;
+}
+
+.mainInput{
+    border: 0;
+    border-bottom: 1px solid #487288;
+    border-radius: 1px;
+}
+
+ input{
+     height: 30px;
+     outline: #487288;
+ }
+
+
+.spaceInput{
+    margin-top: 3%;
+}
+
+form{
+    display: block;
+    margin-top: 20% ;
+}
+
+.exp{
+    margin: auto;
+    color: #487288;
+    font-size: 3ex;
+}
+
+.forget{
+    color: #487288;
+    font-size: 1.7ex;
+}
+
+footer{
+    width: 100%;
+    height: 4%;
+
+}
+
+.term{
+    text-decoration:none;
+    color: #487288;
+}
+
+.term:hover{
+    font-weight: bold;
+}
+
+@media screen and (max-width: 700px) {
+    header{
+        height: 20%;
+    }
+
+    .login{
+        font-size: 7ex;
+    }
+
+    .signup{
+        font-size: 3ex;
+    }
+
+    section{
+        width: 100%;
+        height: 45%;
+   }
+
+    img{
+        height: 100%;
+   }
+
+    .slogan{
+        font-size: 2ex;
+   }
+
+   .exp{
+       display: none;
+   }
+
+   .user{
+       width: 70%;
+   }
+
+   form{
+        margin-top: 7%;
+    }
+
+}

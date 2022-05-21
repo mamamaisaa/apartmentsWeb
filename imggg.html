@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="new_malfunctionStyle.css">
+        <link rel="stylesheet" href="basic.css">
+        <link rel="stylesheet" href="submit.css">
+
+        
+        <title>photo malfunction</title>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+   
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script type='text/javascript'>
+        function preview_image(event) 
+        {
+         var reader = new FileReader();
+         reader.onload = function()
+         {
+          var output = document.getElementById('output_image');
+          output.src = reader.result;
+         }
+         reader.readAsDataURL(event.target.files[0]);
+        }
+</script>
+    <style>
+       input{
+           background-color: #f8f7e7;
+           margin-top:2%;
+       }
+       .submit{
+           border:1px solid #487288;
+       }
+       .submit:hover{
+           border:2px solid #487288;
+       }
+       #output_image
+       {
+            max-width:250px;
+        }
+    </style>
+    </head>
+    
+    <body>
+        <header class="mainColor">
+            <span><i onclick="history.back()" class="fa fa-angle-double-left"></i></span> 
+            <p class="slogan1" style="margin-top:0;">Tenant management</p>
+        </header>
+        
+    <main>
+        <form action="upload.php" method="post" enctype="multipart/form-data">
+            <label>Select Image File Of The Malfunction:</label> <br>
+            <input type="file" name="image" class="pic" accept="image/*" onchange="preview_image(event)" required> <br>
+            <img id="output_image"/>
+            <input type="submit" name="submit" value="Upload" class="submit iphone" >
+        </form>
+    </main>
+    
+    
+    
+    </body>
+    
+</html>
+        

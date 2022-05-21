@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Home-me</title>
+        <link rel="stylesheet" href="basic.css"> 
+        <link rel="stylesheet" href="signUp.css">
+        <link rel="stylesheet" href="submit.css">
+        <link rel="shortcut icon" href="photos/icon.png" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+
+
+        <header>
+            <div class="head1 mainColor">
+                <a href="index.html">
+                <span><i class="fa fa-angle-double-left"></i></span></a>
+                <p class="login">
+                    HOME-me
+            </div>
+            <div class="head2 supColor">
+                <p class="signup">get your new password</p>
+            </div>
+        </header>
+                
+
+        <main>
+            
+            <form action="forget.php" method="post" name="">
+                <p> <input type="tel" placeholder="Enter your phone number" required name="phone" class="input">
+                </p>
+                <p> <input type="email" placeholder="Enter your e-mail address" required name="email" class="input">
+                </p>
+                <p> <input type="password" placeholder="Enter your new password" name="password1" id="password1" class="input" required>
+                </p> 
+                <p> <input type="password" placeholder="Confirm your new password" required id="passwordV" name="password2" class="input">
+                </p>
+
+                        <div id="message" name="message">
+                            
+                            <h4>Password must contain the following:</h4>
+                            <p id="letter" class="invalid">A lowercase letter</p>
+                            <p id="capital" class="invalid">A capital letter</p>
+                            <p id="number" class="invalid">A number</p>
+                            <p id="length" class="invalid">Minimum 8 characters</p>
+                        </div>
+
+
+                <p>Choose your role:
+                    <select id="role" name="role" >
+                        <option value="tenant">Tenant</option>
+                        <option value="owner">Apartment owner</option>
+                    </select>
+                </p>
+                <p>
+                    <p><input onclick="check()" type="submit" value="update password" class="submit border fbtn iphone" ></p>
+            </form>
+        </main>
+        <script src="sign_up.js"></script>
+    </body>
+</html>

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="basic.css">
+    <link rel="stylesheet" href="loginStyle.css">
+    <link rel="shortcut icon" href="photos/icon.png" />
+    
+</head>
+<body>
+    <header>
+        <div class="head1 mainColor">
+            <p class="login">
+                Login
+            </p>
+        </div>
+        
+        <!-- go to sign up page-->
+        <div class="head2 supColor">
+            <a class="signup" href="sign_up.html">Sign up</a>
+        </div>
+    </header>
+
+    <main>
+        <section>
+             <img src="photos/HOME-removebg-preview.png" alt="logo" class="logo">
+             <p class="slogan">Tenant management</p>
+            </section>
+        <section>
+            
+            <!-- login form-->
+            <form action="login.php" method="POST">
+                <p class="user exp">Already registered? <br> Login to HOME-me</p>
+                <input type="text" name="username" id="username" class="mainInput fbtn user spaceInput" placeholder="Enter your e-mail" required>
+                <input type="password" name="password" id="password" class="mainInput fbtn user spaceInput" placeholder="Enter your password" required>
+                <input type="submit" value="Log in" id="login" class="loginbtn fbtn border spaceInput user">
+            </form>
+            <a class="forget" href="forget.html">forgot password?</a>
+        </section>
+    </main>
+            
+    <footer>
+        <!-- terms of use page-->
+        <a href="terms.html" class="term">Terms of service</a>
+    </footer>
+</body>
+</html>
+ 

@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Furniture list</title>
+  <link rel="stylesheet" href="furnitureLst.css">
+  <link rel="stylesheet" href="submit.css">
+  <link rel="shortcut icon" href="photos/icon.png" />
+
+<script>
+// if a checkbox checked, open a text box
+  function myFunction() {
+      var checkBox = document.getElementById("Bed");
+      var text = document.getElementById("bedD");
+      if (checkBox.checked == true){
+          text.style.display = "inline";
+      } else {
+          text.style.display = "none";
+    }
+
+    
+    if ( document.getElementById("Mattress").checked == true){
+      document.getElementById("MattressD").style.display = "inline";
+    } else {
+      document.getElementById("MattressD").style.display = "none";
+    }
+
+    if ( document.getElementById("Fridge").checked == true){
+      document.getElementById("FridgeD").style.display = "inline";
+    } else {
+      document.getElementById("FridgeD").style.display = "none";
+    }
+
+    if ( document.getElementById("Oven").checked == true){
+      document.getElementById("OvenD").style.display = "inline";
+    } else {
+      document.getElementById("OvenD").style.display = "none";
+    }
+
+    if ( document.getElementById("Washer").checked == true){
+      document.getElementById("WasherD").style.display = "inline";
+    } else {
+      document.getElementById("WasherD").style.display = "none";
+    }
+
+    if ( document.getElementById("Dryer").checked == true){
+      document.getElementById("DryerD").style.display = "inline";
+    } else {
+      document.getElementById("DryerD").style.display = "none";
+    }
+
+    if ( document.getElementById("Microwave").checked == true){
+      document.getElementById("MicrowaveD").style.display = "inline";
+    } else {
+      document.getElementById("MicrowaveD").style.display = "none";
+    }
+
+    if ( document.getElementById("Closet").checked == true){
+      document.getElementById("ClosetD").style.display = "inline";
+    } else {
+      document.getElementById("ClosetD").style.display = "none";
+    }
+
+    if ( document.getElementById("Sofa").checked == true){
+      document.getElementById("SofaD").style.display = "inline";
+    } else {
+      document.getElementById("SofaD").style.display = "none";
+    }
+
+    if ( document.getElementById("cTable").checked == true){
+      document.getElementById("cTableD").style.display = "inline";
+    } else {
+      document.getElementById("cTableD").style.display = "none";
+    }
+
+    if ( document.getElementById("Chairs").checked == true){
+      document.getElementById("ChairsD").style.display = "inline";
+    } else {
+      document.getElementById("ChairsD").style.display = "none";
+    }
+
+    if ( document.getElementById("AC").checked == true){
+      document.getElementById("ACD").style.display = "inline";
+    } else {
+      document.getElementById("ACD").style.display = "none";
+    }
+
+    }
+</script>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+  <header>
+    <!--go back button -->
+    <span><i onclick="history.back()" class="fa fa-angle-double-left"></i></span> 
+     <p class="slogan1"> Tenant management </p>
+  </header>
+
+  <main>
+    <!--furniture list form-->
+    <form action="furnitureList.php" method="POST">
+      <div id="FurnitureList" class="tabcontent" style="display: block; color:  #1A5058;">
+
+        <div class='brdr'>
+          <div class="txt"> Mark the furniture that exists in the apartment so you can describe them </div>
+
+
+          <div>
+            <input type="checkbox" id="Bed" name="Bed" class='checkChoice' onclick="myFunction()">
+            <label for="Bed">Bed</label>
+            <input type="text" name="bedD" id="bedD" style="display:none">
+          </div>
+
+          <div>
+            <input type="checkbox" id="Mattress" name="Mattress" class='checkChoice' onclick="myFunction()">
+            <label for="Mattress">Mattress</label>
+            <input type="text" name="MattressD" id="MattressD" style="display:none">
+          </div>
+
+          <div>
+            <input type="checkbox" id="Fridge" name="Fridge" class='checkChoice' onclick="myFunction()">
+            <label for="Fridge">Fridge</label>
+            <input type="text" name="FridgeD" id="FridgeD" style="display:none">
+          </div>
+
+          <div>
+            <input type="checkbox" id="Oven" name="Oven" class='checkChoice' onclick="myFunction()">
+            <label for="Oven">Oven</label>
+            <input type="text" name="OvenD" id="OvenD" style="display:none">
+          </div>
+
+          <div>
+            <input type="checkbox" id="Washer" name="Washer" class='checkChoice' onclick="myFunction()">
+            <label for="Washer">Washer</label>
+            <input type="text" name="WasherD" id="WasherD" style="display:none">
+          </div>
+
+          <div>
+            <input type="checkbox" id="Dryer" name="Dryer" class='checkChoice' onclick="myFunction()">
+            <label for="Clothes Dryer">Clothes Dryer</label>
+            <input type="text" name="DryerD" id="DryerD" style="display:none">
+          </div>
+
+          <div>
+            <input type="checkbox" id="Microwave" name="Microwave" class='checkChoice' onclick="myFunction()">
+            <label for="Microwave">Microwave</label>
+            <input type="text" name="MicrowaveD" id="MicrowaveD" style="display:none">
+          </div>
+
+          <div>
+            <input type="checkbox" id="Closet" name="Closet" class='checkChoice' onclick="myFunction()">
+            <label for="Closet">Closet</label>
+            <input type="text" name="ClosetD" id="ClosetD" style="display:none">
+          </div>
+
+          <div>
+            <input type="checkbox" id="Sofa" name="Sofa" class='checkChoice' onclick="myFunction()">
+            <label for="Sofa">Sofa</label>
+            <input type="text" name="SofaD" id="SofaD" style="display:none">
+          </div>
+
+          <div>
+            <input type="checkbox" id="cTable" name="cTable" class='checkChoice' onclick="myFunction()">
+            <label for="Coffe Table">Coffe Table</label>
+            <input type="text" name="cTableD" id="cTableD" style="display:none">
+          </div>
+
+          <div>
+            <input type="checkbox" id="Chairs" name="Chairs" class='checkChoice' onclick="myFunction()">
+            <label for="Chairs">Chairs</label>
+            <input type="text" name="ChairsD" id="ChairsD" style="display:none">
+          </div>
+
+          <div>
+            <input type="checkbox" id="AC" name="AC" class='checkChoice' onclick="myFunction()">
+            <label for="Air Conditioner">Air Conditioner</label>
+            <input type="text" name="ACD" id="ACD" style="display:none">
+          </div>
+
+          <div class='foot'>
+            <div class='footxt'>Apartment's description: </div>
+            <textarea class='desc' id="apt" name="apt" type='paragraph_text' cols="45" rows="7"></textarea>
+          </div>
+        </div>
+
+        <input type='submit' class='savebutton iphone' value="Save"> 
+
+      </div>
+    </form>
+  </main>
+</body>
+</html>
