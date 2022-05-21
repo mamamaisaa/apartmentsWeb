@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="basic.css">
+        <link rel="stylesheet" href="new_malfunctionStyle.css">
+        <link rel="stylesheet" href="submit.css">
+        <title>new malfunction</title>
+        <link rel="shortcut icon" href="photos/icon.png" />
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+        
+    <!-- blocks all the dates that passed -->
+    <script>
+        $(document).ready(function(){
+            $(function(){
+                var dtToday = new Date();
+
+                var month = dtToday.getMonth() + 1;
+                var day = dtToday.getDate();
+                var year = dtToday.getFullYear();
+                if(month < 10)
+                    month = '0' + month.toString();
+                if(day < 10)
+                    day = '0' + day.toString();
+                    
+                var maxDate = year + '-' + month + '-' + day;
+                
+                $('#dateTxt').attr('min',maxDate);
+            });
+        })
+    </script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+    
+    <body>
+        <header class="mainColor">
+            <span><i onclick="history.back()" class="fa fa-angle-double-left"></i></span> 
+            <p class="slogan1" style="margin-top:0%;">Tenant management</p>
+        </header>
+
+        <main>
+            <!-- new malfunction form-->
+            <form action="new_malfunction.php" method="post" name="new malfuncion form">
+                
+                <!-- go to your malfunctions list-->
+                <a href="malTRY2.php"><input type="button" value="Continue with malfunctions in treatment" class="Continue border"></a>
+                <p><label>
+                    Malfunction's title <br>
+                    <input type="text" class="fbtn " name="title" id="title" required>
+                </label></p>
+
+                <p><label>
+                    Please choose a category <br>
+                    <select id="category" class="choose fbtn " name="category" required>
+                        <option value="maintenance" id="maintenance">maintenance</option>
+                        <option value="electricity" id="electricity">electricity</option>
+                        <option value="installation" id="installation">installation</option>
+                        <option value="furniture" id="furniture">furniture</option>
+                        <option value="airConditioning" id="airConditioning">air conditioning</option>
+                        <option value="other" id="other">other</option>
+                    </select>
+                </label></p>
+
+                <p><label>
+                    Please choose a location <br>
+                    <select id="mLocation" class="choose fbtn" name="mLocation" required>
+                        <option value="bedroom" id="bedroom">bedroom</option>
+                        <option value="kitchen" id="kitchen">kitchen</option>
+                        <option value="livingRoom" id="livingRoom">living room</option>
+                        <option value="bathroom" id="bathroom">bathroom</option>
+                        <option value="other" id="other">other</option>
+                    </select>
+                </label></p>
+
+                <p><label>
+                    Please describe the malfunction <br>
+                    <textarea class="fbtn choose text" id="description" placeholder="description..." name="mDescription" required ></textarea>
+                </label></p>
+
+                <p><label>
+                    Please pick a potential time and date for treatment <br>
+
+                    <input type="date" id="dateTxt" class="fbtn  time" name="dateTxt" required>
+                    <input type="time" id="fTime" class="fbtn  time " name="fTime" required >
+                </label></p>
+                
+               
+                <p><label>
+                    <button type="submit" class=" sub iphone">Send malfunction</button>
+                </label></p>
+            </form>
+        </main>
+</body>
+</html>

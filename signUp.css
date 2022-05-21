@@ -1,0 +1,157 @@
+header{
+    width: 100%;
+    height: 25%;
+}
+
+.head1{
+    width: 100%;
+    height: 70%;
+    text-align: center;
+    display: flex;
+}
+
+.head2{
+    width: 100%;
+    height: 30%;
+    text-align: center;
+    display: flex;
+}
+
+main{
+    height: 70%;
+    display: inline-block;
+    width:80%;
+    margin:auto;
+}
+
+.login{
+    color:#E1C88D;
+    font-size: 10ex;
+    margin: auto;
+}
+
+.signup{
+    color:#1A5058;
+    font-size: 4ex;
+    display: inline;
+    margin: auto;
+}
+
+form{
+    width:80%;
+    height:100%;
+    margin:auto;
+}
+
+.input{
+    width:50%;
+    margin-top:2%;
+    height: 25px;
+    outline: #487288;
+    border: 0;
+    border-bottom: 1px solid #487288;
+    border-radius: 1px;
+    background-color:#f8f7e7;
+}
+
+.checkbox{
+    width:20px;
+    height: 15px;
+    margin-top:2%;
+}
+
+select{
+    margin-top:3%;
+    height: 25px;
+    width:35%;
+    border: 0;
+    border-bottom: 1px solid #487288;
+    border-radius: 1px;
+    background-color:#f8f7e7;
+}
+
+.submit{
+    margin-top:2%;
+    width:50%;
+    height: 25px;
+    outline: #487288;
+}
+
+span{
+    position:absolute;
+    margin-top: 1.5%;
+}
+
+/* The message box is shown when the user clicks on the password field */
+#message {
+  display:none;
+  background:  #f8f7e7;
+  color: #000;
+  position: relative;
+  margin: 10px auto;
+  width:50%;
+  text-align:left;
+  
+}
+
+#message p {
+  padding: 10px 35px;
+  font-size: 16px;
+}
+
+/* Add a green text color and a checkmark when the requirements are right */
+.valid {
+  color: green;
+}
+
+.valid:before {
+  position: relative;
+  left: -35px;
+  content: "✔";
+}
+
+/* Add a red text color and an "x" icon when the requirements are wrong */
+.invalid {
+  color: red;
+}
+
+.invalid:before {
+  position: relative;
+  left: -35px;
+  content: "X";
+}
+
+
+@media screen and (max-width: 700px) {
+    header{
+        height:20%;
+    }
+    .login{
+        font-size: 5ex;
+    }
+    .signup{
+        font-size: 3ex;
+    }
+    main{
+        height: 70%;
+        width:100%;
+        margin-top:8%;
+    }
+    form{
+        width:100%;
+    }
+    select{
+        width:34%;
+    }
+    .input{
+        width:60%;
+    }
+    .submit{
+        width:60%;
+    }
+    span{
+        margin-top: 2.5%;
+    }
+}
+        
+}

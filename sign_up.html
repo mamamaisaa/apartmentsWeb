@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Home-me</title>
+        <link rel="stylesheet" href="basic.css"> 
+        <link rel="stylesheet" href="signUp.css">
+        <link rel="shortcut icon" href="photos/icon.png" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+
+
+        <header>
+            <div class="head1 mainColor">
+                <a href="index.html">
+                <span><i class="fa fa-angle-double-left"></i></span></a>
+                <p class="login">
+                    Hello stranger
+            </div>
+            <div class="head2 supColor">
+                <p class="signup">Sign up for free</p>
+            </div>
+        </header>
+                
+
+        <main>
+            <!-- sign up form-->
+            <form action="connect.php" method="post" name="Sign up form">
+                <p> <input type="text" placeholder="Enter your first name" required name="firstName" class="input">
+                </p>
+                <p> <input type="text" placeholder="Enter your last name" required name="lastName" class="input">
+                </p>
+                <p> <input type="tel" placeholder="Enter your phone number" required name="phone" class="input">
+                </p>
+                <p> <input type="email" placeholder="Enter your e-mail address" required name="email" class="input">
+                </p>
+                <p> <input type="password" placeholder="Enter your password" name="password1" id="password1" class="input" required>
+                </p> 
+                <p> <input type="password" placeholder="Confirm your password" required id="passwordV" name="password2" class="input">
+                </p>
+
+                        <div id="message" name="message">
+                            
+                            <h4>Password must contain the following:</h4>
+                            <p id="letter" class="invalid">A lowercase letter</p>
+                            <p id="capital" class="invalid">A capital letter</p>
+                            <p id="number" class="invalid">A number</p>
+                            <p id="length" class="invalid">Minimum 8 characters</p>
+                        </div>
+
+
+                <p>Choose your role:
+                    <select id="role" name="role" >
+                        <option value="tenant">Tenant</option>
+                        <option value="owner">Apartment owner</option>
+                    </select>
+                </p>
+                <p>
+                    <!-- terms-->
+                    <input type="checkbox" required class="checkbox"> I agree to the <a href="terms.html" target="_self"> terms of use </a>
+                    </p>
+                    
+                    <p><input onclick="check()" type="submit" value="sign me up" class="submit border fbtn" ></p>
+            </form>
+        </main>
+        <script src="sign_up.js"></script>
+    </body>
+</html>
